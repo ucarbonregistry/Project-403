@@ -21,6 +21,7 @@ PHARMEZ Special Economic Zone,
 Zydus Infrastructure Pvt. Ltd.,
 Village: Matoda,
 Taluka: Sanand
+
 Latitude: 22°52'49.25"N
 Longitude: 72°24'23.60"E
 
