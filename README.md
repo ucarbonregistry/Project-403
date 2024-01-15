@@ -49,6 +49,10 @@ Wastewater Recycling by ZIPL, Gujarat, India, (UWR ID – 403) for the period 01
 30/11/2023 amounts to 49,77,286 RoUs
 ______________
 ISSUE DATE: 15/01/2024
+
+01/01/2014 to 30/11/2023 
+
+Total 1st Crediting Period: 49,77,286 RoUs
 _____________
 
 Serial Number: 0001-000001-178378-UCR-RoU-IN-403-01012014-31122014
